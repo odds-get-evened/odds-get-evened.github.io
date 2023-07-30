@@ -1,2 +1,2 @@
-let appContainer = document.getElementById('appContainer);
+let appContainer = document.getElementById('appContainer');
 console.log(appContainer);
