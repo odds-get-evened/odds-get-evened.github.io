@@ -1,1 +1,1 @@
-{"mappings":"","sources":["main.js"],"sourcesContent":[null],"names":[],"version":3,"file":"index.c4775257.js.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA,IAAI,YAAY,SAAS,eAAe;AACxC,UAAU,iBAAiB,SAAS,CAAC;AACjC,uBAAuB;AAC3B","sources":["main.js"],"sourcesContent":["let genKeyBtn = document.getElementById('genKeyBtn');\r\ngenKeyBtn.addEventListener('click', (evt) => {\r\n    //console.log(openpgp);\r\n});"],"names":[],"version":3,"file":"index.c4775257.js.map","sourceRoot":"/__parcel_source_root/"}
